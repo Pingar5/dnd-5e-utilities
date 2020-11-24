@@ -1,0 +1,35 @@
+td {
+    border-bottom: 1px solid white;
+	padding: 5px;
+}
+
+tr:last-child td {
+    border-bottom: 2px solid white;
+}
+
+table {
+  	border-collapse: collapse;
+	background-color: #111111;
+	font-family: sans-serif;
+    font-size: 1.25em;
+    float: left;
+    border: 2px solid white;
+	border-top-width: 1px;
+}
+
+.character {
+	margin: .05in .05in;
+	page-break-inside: avoid;
+}
+
+.indent {
+	display: block;
+	width: 95%;
+	float: right;
+}
+
+.notes {
+	float: left;
+	clear: both;
+	text-indent: 1em;
+}
