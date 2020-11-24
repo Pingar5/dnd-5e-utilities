@@ -2,7 +2,7 @@
     "name": "dnd-5e-utilities",
     "displayName": "D&D 5e Utilities",
     "description": "A collection of utilities to turn VSCode into a great DM tool",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.51.0"
     },

@@ -11,6 +11,6 @@ Currently the features are:
 
 ## Release Notes
 
-### 0.0.1
+### 0.1.0
 
 Initial release! Added the NPC sheet viewer and my markdown styling.
