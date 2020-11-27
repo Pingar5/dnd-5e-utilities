@@ -11,6 +11,9 @@ Currently the features are:
 
 ## Release Notes
 
+### 0.2.0
+Adds markdown-it-attrs which allows you to add classes and other attributes to elements in markdown.
+
 ### 0.1.0
 
 Initial release! Added the NPC sheet viewer and my markdown styling.
